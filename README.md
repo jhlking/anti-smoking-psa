@@ -16,6 +16,12 @@
 
 作为纯 AIGC 创作，本片验证了 AI 工具链在**情感类公益广告**上的表达潜力。
 
+
+**English**
+
+This is an AIGC public service announcement about the harms of smoking to individuals and families. It tells the story of a heavy smoker who develops terminal lung cancer and loses the chance to grow up with his daughter. Told with restrained, emotional storytelling, it argues that the most powerful reason to quit is not "you will get sick" but "the people you love will lose you". The film showcases the expressive potential of AI workflows for emotional public-service storytelling.
+
+
 ---
 
 ## 剧情梗概 · Storyline
@@ -46,6 +52,15 @@
 - **情感留白**：以克制的镜头语言，把「遗憾」留给观众自己体会。
 
 ---
+
+## 技术栈 · Tech Stack
+
+| 环节 Stage | 工具 Tool | 说明 Purpose |
+| --- | --- | --- |
+| 剧本 Story | codox (GPT) | 剧情与情感线设计 Plot & emotional arc |
+| 图像 Image | GPTimage2 | 场景画面生成 Scene image generation |
+| 视频 Video | 小云雀 (Xiaoyunque) | 图生视频 Image-to-video |
+| 后期 Post | 剪映 CapCut | 剪辑与合成 Editing & compositing |
 
 ## 制作流程 · Production
 
